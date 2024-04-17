@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm Himakshi Verma</h1>
 <h3 align="center">A passionate Web Developer Form India</h3>
 <img align="right" alt="Coding" width="400" src="https://lexnow.io/wp-content/uploads/2022/08/animation_640_l7anjlkz.gif" 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himkashi1301&label=Profile%20views&color=0e75b6&style=flat" alt="himkashi1301" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=himkashi1301&label=Profile%20views&color=0e75b6&style=flat" alt="Himakshi-Verma" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himkashi1301" alt="himkashi1301" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="Himakshi-Verma" alt="Himakshi-Verma" /></a> </p>
 
 - 🌱 I’m currently learning **Web Development,JavaScript,ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Himakshi1301](https://github.com/Himakshi1301)
+- 👨‍💻 All of my projects are available at [https://github.com/Himakshi-Verma](https://github.com/Himakshi-Verma)
 
 - 💬 Ask me about **Web Tech Related Query👩‍🎓**
 
