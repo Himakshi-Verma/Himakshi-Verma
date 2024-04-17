@@ -5,8 +5,6 @@
 <img align="right" alt="Coding" width="400" src="https://lexnow.io/wp-content/uploads/2022/08/animation_640_l7anjlkz.gif" 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himkashi1301&label=Profile%20views&color=0e75b6&style=flat" alt="Himakshi-Verma" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="Himakshi-Verma" alt="Himakshi-Verma" /></a> </p>
-
 - 🌱 I’m currently learning **Web Development,JavaScript,ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Himakshi-Verma](https://github.com/Himakshi-Verma)
